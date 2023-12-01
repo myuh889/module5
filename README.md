@@ -11,3 +11,5 @@ For example:
 
 
 The Apache Liense is being used. Contribute and redistribute at your leisure. 
+
+afm275- Make the goose have more extra effects like it going crazy once the mouse tries to grab it
